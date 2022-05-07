@@ -1,4 +1,4 @@
-name: Plugin asset/readme update
+name: Deploy to wordpress
 on:
   push:
     branches:
