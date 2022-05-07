@@ -1,0 +1,1 @@
+<?php // Everybody dies, Surprise surprise

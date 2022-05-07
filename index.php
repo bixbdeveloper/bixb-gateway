@@ -1,0 +1,1 @@
+<?php // The moon doesn't mind
